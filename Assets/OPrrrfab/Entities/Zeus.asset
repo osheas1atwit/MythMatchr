@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: Zeus
+  m_EditorClassIdentifier: 
+  isCreature: 1
+  entityName: Zeus
+  continent: 4
+  country: Greece
+  image: {fileID: 21300000, guid: 1b92f408d0aff0240aff522b8cf8dae5, type: 3}
+  description: God of the sky, lightning, thunder, law and order
+  hints:
+  - Known as the King of the Gods
+  - Resides on the Mount Olympus, home of the gods.

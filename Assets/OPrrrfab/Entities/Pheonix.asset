@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: Pheonix
+  m_EditorClassIdentifier: 
+  isCreature: 0
+  entityName: Pheonix
+  continent: 3
+  country: Egypt
+  image: {fileID: 21300000, guid: fc7dc2b49e1882d4998545b84779532b, type: 3}
+  description: A flaming bird.
+  hints:
+  - 'Reborns after it dies. '
+  - Associated with the sun (sun rise/sun set)/.

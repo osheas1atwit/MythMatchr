@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: Yeti
+  m_EditorClassIdentifier: 
+  isCreature: 0
+  entityName: Yeti
+  continent: 2
+  country: Nepal
+  image: {fileID: 21300000, guid: f04b6ff380623944c80dc78de89d4787, type: 3}
+  description: A giant ape-like creature with white fur, also known as the Abominable
+    Snowman.
+  hints:
+  - Originated in the mountains in Asia.
+  - Sightings at the Himalayan moutain range.

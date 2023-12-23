@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: El Nahual
+  m_EditorClassIdentifier: 
+  isCreature: 0
+  entityName: El Nahual
+  continent: 0
+  country: Mexico
+  image: {fileID: 21300000, guid: 1f448cec33a21c54199a36900957513a, type: 3}
+  description: 'It is half-human and half-beast, a sorcerer who transforms at night
+    into an animal, often a black dog or a jaguar. It eats cattle and children''s
+    blood, but its main food is people''s fears, desires, and hatred. '
+  hints:
+  - Originated from the Aztecs and Mayans.
+  - Sighted in the southern hemisphere.

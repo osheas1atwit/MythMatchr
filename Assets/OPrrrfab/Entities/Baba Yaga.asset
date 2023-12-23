@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: Baba Yaga
+  m_EditorClassIdentifier: 
+  isCreature: 0
+  entityName: Baba Yaga
+  continent: 2
+  country: Russia
+  image: {fileID: 21300000, guid: 00f574e7efd5c274888e701a60e65a72, type: 3}
+  description: They are is a supernatural being who appears as a deformed and/or
+    ferocious-looking woman.
+  hints:
+  - The climate of this region is characterized by harsh winters and short summers,
+    which are reflected in the stories of Baba Yaga and her seasonal cycles of power.
+  - Originated in Slavic folklore, which emboddies a Eastern Europe.

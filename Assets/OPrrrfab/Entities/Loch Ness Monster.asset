@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21b2affa7d3b454396ac8e2d67f4377, type: 3}
+  m_Name: Loch Ness Monster
+  m_EditorClassIdentifier: 
+  isCreature: 0
+  entityName: Loch Ness Monster
+  continent: 4
+  country: Scotland
+  image: {fileID: 21300000, guid: 73d5181128dcb854f8e50774de7c80c6, type: 3}
+  description: Also known as Nessie, the Loch Ness Monster is a sea monster with
+    a elongated neck.
+  hints:
+  - Sighted at the Loch Ness lake, near Drumnadrochit and Fort Augustus.
+  - The lake is located in a country that is part of the United Kindom.
